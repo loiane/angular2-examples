@@ -2,7 +2,7 @@ import {Component, OnInit} from 'angular2/core';
 
 @Component({
     template: `
-        <h1>Home</h1>
+        <h1>Users</h1>
     `
 })
-export class HomeComponent {}
+export class UsersComponent {}
